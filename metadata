@@ -1,1 +1,7 @@
-nano metadata.json
+{
+  "name": "uchiha"",
+  "website": "www.entekproje.com.tr",
+  "description": "engineer"",
+  "logo": "entek",
+  "twitter": "dedeoglunuh"
+}
